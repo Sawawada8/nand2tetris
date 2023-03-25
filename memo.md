@@ -10,7 +10,7 @@ doc: https://www.nand2tetris.org/software
 - [x] Not
 - [x] And
 - [x] Or
-- [ ] Xor
+- [x] Xor
 - [ ] マルチプレクサ
 - [ ] デマルチプレクサ
 - [ ] 多ビット
